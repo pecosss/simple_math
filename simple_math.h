@@ -10,5 +10,5 @@
         int sum(int x, int y);
 
         // avg: input (2 integers) - output (1 float)
-
+        float avg(int x, int y);
 #endif
