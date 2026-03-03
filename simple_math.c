@@ -13,11 +13,3 @@ int sum(int x, int y){
 float avg(int x, int y){
     return (sum(x,y)/2.0);
 }
-
-int main(void){
-
-    printf("Sum: %d\n", sum(2, 4));
-
-    return 0;
-}
-
