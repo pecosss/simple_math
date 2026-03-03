@@ -17,7 +17,7 @@
     // sum: input (2 integers) - output (1 integer)
     int sum(int x, int y);
 
-    // avg: input (2 integers) - output (1 integer)
+    // avg: input (2 integers) - output (1 float)
     float avg(int x, int y);
 
     // sum_cmplx: input (2 complex numbers) - output (1 complex number)
